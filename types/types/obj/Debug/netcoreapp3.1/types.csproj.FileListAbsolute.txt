@@ -1,0 +1,11 @@
+E:\IT-242\types\types\types\bin\Debug\netcoreapp3.1\types.exe
+E:\IT-242\types\types\types\bin\Debug\netcoreapp3.1\types.deps.json
+E:\IT-242\types\types\types\bin\Debug\netcoreapp3.1\types.runtimeconfig.json
+E:\IT-242\types\types\types\bin\Debug\netcoreapp3.1\types.runtimeconfig.dev.json
+E:\IT-242\types\types\types\bin\Debug\netcoreapp3.1\types.dll
+E:\IT-242\types\types\types\bin\Debug\netcoreapp3.1\types.pdb
+E:\IT-242\types\types\types\obj\Debug\netcoreapp3.1\types.csprojAssemblyReference.cache
+E:\IT-242\types\types\types\obj\Debug\netcoreapp3.1\types.AssemblyInfoInputs.cache
+E:\IT-242\types\types\types\obj\Debug\netcoreapp3.1\types.AssemblyInfo.cs
+E:\IT-242\types\types\types\obj\Debug\netcoreapp3.1\types.dll
+E:\IT-242\types\types\types\obj\Debug\netcoreapp3.1\types.pdb
